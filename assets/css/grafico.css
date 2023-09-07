@@ -1,0 +1,13 @@
+#myChart{
+    top: 200px;
+    right: 800px;
+    width: 750px;
+    height: 750px;
+    position:relative;
+    background: var(--white);
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    box-shadow: 0 100px 255px rgba(0, 0, 0, 0.08);
+  }
